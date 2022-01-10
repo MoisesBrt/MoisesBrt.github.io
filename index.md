@@ -1,6 +1,6 @@
 ![Imaegm da logo da UNIFAP](images/UNIFAP-Universidade-Federal-do-Amapá.jpg)
 
-Olá! Me chamo Moisés Brito e este blog é destinado à minha prática e acompanhamento dos assuntos abordados nas aulas de Inteligência Artificial da Universidade Federal do Amapá.
+Olá! Me chamo Moisés Brito e este blog é destinado à minha prática e acompanhamento das aulas de Inteligência Artificial da Universidade Federal do Amapá.
 
 ## FAST.IA
 
