@@ -1,7 +1,9 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+![Imaegm da logo da UNIFAP](images/UNIFAP-Universidade-Federal-do-Amapá.jpg)
 
-![Image of fast.ai logo](images/logo.png)
+Olá! Me chamo Moisés Brito e este blog é destinado à minha prática e acompanhamento dos assuntos abordados nas aulas de Inteligência Artificial da Universidade Federal do Amapá.
 
-## This is a title
+## FAST.IA
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+E este é o link de acesso ao fast.ai que foi utilizado como base para este repositório: [link to fast.ai](https://www.fast.ai).
+
+## POSTS
